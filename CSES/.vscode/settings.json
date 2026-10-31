@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "compare": "cpp",
+        "xstring": "cpp",
+        "cmath": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "utility": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp",
+        "ios": "cpp",
+        "list": "cpp",
+        "type_traits": "cpp",
+        "initializer_list": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "iterator": "cpp",
+        "xmemory": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
